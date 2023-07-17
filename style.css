@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.content{
+    border: 5px solid;
+    padding: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    width: 30%;
+    margin: 8% 0% 0% 30%;
+    border-radius:10px;
+    background-color: aqua;
+}
+.color{
+background-color: rgb(88, 237, 128));
+}
+.gtn{
+    font-size:xx-large ;
+    font-family:sans-serif;
+}
+
+button{
+    border: 5px solid;
+    margin-top:50%;
+    padding: 5%;
+    width: 35%;
+    border-radius:10px 30px;
+    background-color: bisque;
+}
+
+/* second page */
+
+.text{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.enter_num{
+    border: 1px solid;
+    padding: 1%;
+    width: 70%;
+    height: 30px;
+    text-align: center;
+    border-radius:10px;
+    font-weight: 700;
+    background-color: palevioletred;
+}
+
+#lives{
+    margin-top:7%;
+}
+
+#message{
+    margin-top:4%;
+}
